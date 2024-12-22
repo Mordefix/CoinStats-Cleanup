@@ -5,7 +5,7 @@
   "description": "Removes premium banners from CoinStats",
   "browser_specific_settings": {
     "gecko": {
-      "id": "coinstats-moredefix@tuta.com"
+      "id": "coinstats-moretefix@tuta.com"
     }
   },
   "permissions": [
